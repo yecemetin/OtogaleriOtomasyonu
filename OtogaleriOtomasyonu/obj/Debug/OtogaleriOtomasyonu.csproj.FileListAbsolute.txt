@@ -1,0 +1,25 @@
+c:\users\yecem\documents\visual studio 2012\Projects\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\OtogaleriOtomasyonu.exe.config
+c:\users\yecem\documents\visual studio 2012\Projects\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\OtogaleriOtomasyonu.exe
+c:\users\yecem\documents\visual studio 2012\Projects\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\OtogaleriOtomasyonu.pdb
+c:\users\yecem\documents\visual studio 2012\Projects\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.csprojResolveAssemblyReference.cache
+c:\users\yecem\documents\visual studio 2012\Projects\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.Form1.resources
+c:\users\yecem\documents\visual studio 2012\Projects\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.Properties.Resources.resources
+c:\users\yecem\documents\visual studio 2012\Projects\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.csproj.GenerateResource.Cache
+c:\users\yecem\documents\visual studio 2012\Projects\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.exe
+c:\users\yecem\documents\visual studio 2012\Projects\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.pdb
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\OtogaleriOtomasyonu.exe.config
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.exe
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.pdb
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\OtogaleriOtomasyonu.exe
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\OtogaleriOtomasyonu.pdb
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\mscorlib.dll
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\normidna.nlp
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\normnfc.nlp
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\normnfd.nlp
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\normnfkc.nlp
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\bin\Debug\normnfkd.nlp
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.Form1.resources
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.Properties.Resources.resources
+C:\Users\yecem\Documents\Visual Studio 2012\Projects\TAMAMLANMIŞ PROJELER\OtogaleriOtomasyonu\OtogaleriOtomasyonu\obj\Debug\OtogaleriOtomasyonu.csproj.GenerateResource.Cache
